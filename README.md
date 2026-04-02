@@ -1,35 +1,34 @@
-# Hi, I'm Pennywis404 👋
+# 👋 Hi, I'm Pennywis
 
-I build things around **finance**, **prediction markets**,
-**AI agents**, and occasionally fun stuff that makes no sense.
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Agents](https://img.shields.io/badge/AGENTS-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-F59E0B?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
----
+I build at the intersection of **finance**, **prediction markets**, and **AI agents**.
+Exploring autonomous systems, market intelligence, and whatever seems fun to build.
 
-## 🛠 Stack & Interests
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square&logo=openai&logoColor=white)
-![Polymarket](https://img.shields.io/badge/Polymarket-0052FF?style=flat-square&logo=data&logoColor=white)
-
----
-
-## 🚀 Projects
-
-| Repo | What it does |
-|------|-------------|
-| 🏦 **Finance tools** | Scripts & analysis around markets and data |
-| 📊 **Polymarket** | Bots, data pipelines or strategies on prediction markets |
-| 🤖 **AI Agents** | Autonomous agents experiments |
-| 🎲 **Fun things** | Random projects, proofs of concept |
+Currently focused on agent architecture, RAG pipelines,
+and practical applications of LLMs in financial contexts.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pennywis404&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2)
+![Stats](https://github-readme-stats.vercel.app/api?username=Pennywis404&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6)
 
 ---
 
-## 📫 Let's connect
+## 🚀 Projects
+
+| | Repo | What it does |
+|--|------|-------------|
+| 🏦 | **Finance tools** | Market data, analysis & automation |
+| 📊 | **Polymarket** | Prediction market bots & strategies |
+| 🤖 | **AI Agents** | Autonomous agent experiments |
+| 🎲 | **Fun things** | Random builds & proofs of concept |
+
+---
 
