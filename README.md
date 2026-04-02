@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Pennywis404 👋
 
-<!--
-**Pennywis404/Pennywis404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things around **finance**, **prediction markets**,
+**AI agents**, and occasionally fun stuff that makes no sense.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack & Interests
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![Polymarket](https://img.shields.io/badge/Polymarket-0052FF?style=flat-square&logo=data&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Repo | What it does |
+|------|-------------|
+| 🏦 **Finance tools** | Scripts & analysis around markets and data |
+| 📊 **Polymarket** | Bots, data pipelines or strategies on prediction markets |
+| 🤖 **AI Agents** | Autonomous agents experiments |
+| 🎲 **Fun things** | Random projects, proofs of concept |
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Pennywis404&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2)
+
+---
+
+## 📫 Let's connect
+
