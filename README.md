@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pennywis404
+# 👋 Hi, I'm Théo Ollier
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
