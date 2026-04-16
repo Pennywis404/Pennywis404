@@ -13,11 +13,8 @@ Exploring autonomous systems, market intelligence, and whatever seems fun to bui
 Currently focused on agent architecture, RAG pipelines,
 and practical applications of LLMs in financial contexts.
 
----
 
-## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pennywis404&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6)
 
 ---
 
