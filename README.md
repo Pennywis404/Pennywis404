@@ -11,7 +11,7 @@ I build at the intersection of **finance**, **prediction markets**, and **AI age
 Exploring autonomous systems, market intelligence, and whatever seems fun to build.
 
 Currently focused on agent architecture, RAG pipelines,
-and practical applications of LLMs in financial contexts.
+and practical applications of LLMs in business contexts.
 
 
 
