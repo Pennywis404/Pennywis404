@@ -7,25 +7,38 @@
 ![NLP](https://img.shields.io/badge/NLP-F59E0B?style=for-the-badge&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
-I build at the intersection of **finance**, **prediction markets**, and **AI agents**.
-Exploring autonomous systems, market intelligence, and whatever seems fun to build.
+I build **applied AI systems**: agents, evaluation tools,
+and experiments in model adaptation.
 
-Currently focused on agent architecture, RAG pipelines,
-and practical applications of LLMs in business contexts.
+I'm interested in turning research into useful products—
+testing what works, understanding failures, and measuring
+the trade-offs between quality, latency, and cost.
 
-
-
+My business background brings another perspective:
+understanding users, automating workflows, and helping
+technical products reach the people who need them.
 
 ---
 
 ## 🚀 Projects
 
-| | Repo | What it does |
-|--|------|-------------|
-| 🏦 | **Finance tools** | Market data, analysis & automation |
-| 📊 | **Polymarket** | Prediction market bots & strategies |
-| 🤖 | **AI Agents** | Autonomous agent experiments |
-| 🎲 | **Fun things** | Random builds & proofs of concept |
+| | Project | What I'm building |
+|--|---------|-------------------|
+| 🧠 | **Kibo** | A workspace for local models, user feedback and personalized AI experiments |
+| 🔬 | **AI Evaluation** | Speech recognition evaluation and LLM-as-a-judge experiments |
+| 🤖 | **AI Agents** | Agent workflows, tools and practical applications |
+| 📈 | **GTM Tools** | Company research, opportunity qualification and business automation |
+| 🏦 | **Finance & Prediction Markets** | Market intelligence, analysis and experiments |
+| 🎲 | **Fun Things** | Small builds, prototypes and ideas worth testing |
 
 ---
 
+## 🌉 Looking for my next team
+
+Seeking an **internship in San Francisco starting January–March 2027**.
+
+Open to **Applied AI, Software Engineering, Forward-Deployed Engineering,
+and Technical GTM** roles.
+
+I want to work with people who build ambitious things,
+test them seriously, and learn from real users.
